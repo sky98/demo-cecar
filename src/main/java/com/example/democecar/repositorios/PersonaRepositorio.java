@@ -1,6 +1,6 @@
-package com.example.demoCECAR.repositorios;
+package com.example.democecar.repositorios;
 
-import com.example.demoCECAR.entidades.Persona;
+import com.example.democecar.entidades.Persona;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

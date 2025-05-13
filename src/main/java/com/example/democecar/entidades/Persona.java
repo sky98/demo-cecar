@@ -1,4 +1,4 @@
-package com.example.demoCECAR.entidades;
+package com.example.democecar.entidades;
 
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;

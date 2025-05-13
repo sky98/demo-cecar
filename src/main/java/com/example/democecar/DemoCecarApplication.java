@@ -1,4 +1,4 @@
-package com.example.demoCECAR;
+package com.example.democecar;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
